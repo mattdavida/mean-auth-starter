@@ -13,6 +13,7 @@ I started the project with the [codercamps-js yo generator](https://www.npmjs.co
 3. npm install
 4. bower install 
 5. Build ts files (I use [atom-typescript](https://atom.io/packages/atom-typescript))
-6. node ./bin/www
+6. Update DB connectionString (Line 17 App.ts)
+7. node ./bin/www
 
 
