@@ -47,7 +47,7 @@ namespace myapp {
           }
         });
       }
-
+      //logout user
       this.logout = function() {
         Auth.logout();
         $state.go("logout");
